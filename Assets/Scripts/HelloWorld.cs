@@ -15,8 +15,7 @@ public class HelloWorld : MonoBehaviour
     {
         FindDividers(1,15);
     }
-
-
+    
     private void FindDividers(int firstNumber, int secondNumber)
     {
         for (int i = firstNumber; i <= secondNumber; i++)
